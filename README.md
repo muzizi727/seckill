@@ -1,10 +1,27 @@
-# web-前端
-自己用的
-工具 vs code
-html + css +javascript 
-css库bootstrap
-javascript库 vue jqery 
-js https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
-bootstrap https://v2.bootcss.com/base-css.html?#forms
-webpack 菜鸟教程 http://www.runoob.com/w3cnote/webpack-tutorial.html
-TypeScript https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html
+一起学习打卡
+
+01、Java av47103781
+02、Spring av47103781
+03、Spring Mvc av47176832
+04、MyBatis av47228830
+05、Hibernate av47382482
+06、Spring Boot av47230137
+07、Spring Cloud av47228830
+08、Dubbo av47009143
+09、MySQL av47702905
+10、Redis av47423174
+11、MongoDB av47425352
+12、Elasticsearch av48279989
+13、Zookeeper av47773419
+14、Kafka av47773990
+15、Linux av47701443
+16、Docker av47715282
+17、Maven av47382482
+18、Git av47701443
+19、Jenkins av47714706
+20、IDEA av47382482
+21、Shiro av47382482
+22、React av48033695
+23、Vue av48034319
+24、电商项目实战 av48308453
+25、RBAC 权限系统 av48305719

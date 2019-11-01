@@ -40,3 +40,4 @@ Spring AOP和AspectJ AOP的区别：
        Spring AOP是基于代理， AspectJ AOP是基于字节码操作。
        AspectJ AOP相比于Spring AOP更强大，Spring AOP相对来说更简单。如果切面比较少，两者性能差异不大。否则最好选择AspectJ 它比Spring AOP快很多。
 
+镜像是容器的静态备份，容器是镜像的东台实例，先有镜像再有容器。删除容器的步骤是先删除容器再删除镜像。
